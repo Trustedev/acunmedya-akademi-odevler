@@ -1,1 +1,0 @@
-select EmpID, FullName FROM EmployeeDetails WHERE ManagerID = 986;
