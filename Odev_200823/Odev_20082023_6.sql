@@ -1,0 +1,1 @@
+select * from EmployeeDetails WHERE EmployeeDetails.ManagerID = 321 AND EmployeeDetails.City = 'Toronto'
