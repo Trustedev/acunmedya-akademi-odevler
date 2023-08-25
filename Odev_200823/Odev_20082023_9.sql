@@ -1,0 +1,1 @@
+SELECT *, Salary + Variable as SalaryVariable FROM EmployeeDetails INNER JOIN EmployeeSalary ON EmployeeDetails.EmpID = EmployeeSalary.EmpID
