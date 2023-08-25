@@ -1,0 +1,1 @@
+SELECT EmpID FROM EmployeeDetails UNION SELECT EmpID FROM EmployeeSalary;
