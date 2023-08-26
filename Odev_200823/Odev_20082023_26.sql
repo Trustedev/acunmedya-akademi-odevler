@@ -1,0 +1,1 @@
+SELECT * FROM EmployeeSalary INNER JOIN EmployeeDetails ON EmployeeDetails.EmpID = EmployeeSalary.EmpID;
