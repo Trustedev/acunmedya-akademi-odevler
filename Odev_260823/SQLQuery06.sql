@@ -1,0 +1,1 @@
+SELECT ename, dname, title FROM emp, dept WHERE emp.dno = dept.dept

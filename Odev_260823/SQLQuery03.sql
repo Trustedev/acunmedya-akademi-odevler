@@ -1,0 +1,1 @@
+SELECT eno, ename FROM emp WHERE title = 'EE' or title = 'SA' and salary >35000

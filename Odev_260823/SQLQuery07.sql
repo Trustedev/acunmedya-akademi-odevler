@@ -1,0 +1,1 @@
+SELECT workson.pno, hours, pname FROM workson, proj WHERE hours > 10 AND proj.pno = workson.pno

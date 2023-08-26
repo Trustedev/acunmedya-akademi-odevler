@@ -1,0 +1,1 @@
+SELECT dname, pname, budget FROM proj, dept WHERE budget < 50000 and proj.dno = dept.dept

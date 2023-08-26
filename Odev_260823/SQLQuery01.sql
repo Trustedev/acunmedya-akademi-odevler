@@ -1,0 +1,1 @@
+SELECT pno, pname, dno FROM proj WHERE budget > 100000

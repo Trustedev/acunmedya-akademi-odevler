@@ -1,0 +1,1 @@
+SELECT * FROM workson WHERE hours < 10 and resp = 'Manager'
