@@ -1,0 +1,1 @@
+SELECT * FROM EmployeeDetails WHERE NOT EmployeeDetails.EmpID IN (select EmpID from EmployeeSalary)
