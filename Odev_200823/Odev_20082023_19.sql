@@ -1,0 +1,1 @@
+SELECT UPPER(Fullname), LOWER(City) FROM EmployeeDetails;
